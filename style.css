@@ -1,0 +1,23 @@
+.first,
+.second,
+.third {
+  font-size: 32px;
+}
+
+.first {
+  color: red;
+  background-color: white;
+  font-family: "Times New Roman";
+}
+
+.second {
+  color: darkblue;
+  background-color: black;
+  font-family: Helvetica, sans-serif;
+}
+
+.third {
+  color: darkgreen;
+  font-size: 32px;
+
+}
